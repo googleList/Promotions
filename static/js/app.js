@@ -47,8 +47,8 @@
 
 $(document).ready(function () {
     var urls = [
-        "https://t.me/1",
-        "https://t.me/2",
+        "https://t.me/TH90887",
+        "https://t.me/TH90887",
         "https://t.me/3",
         "https://t.me/4"
     ];
