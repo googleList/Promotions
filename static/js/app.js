@@ -48,9 +48,8 @@
 $(document).ready(function () {
     var urls = [
         "https://t.me/TH90887",
-        "https://t.me/TH90887",
-        "https://t.me/3",
-        "https://t.me/4"
+        "https://t.me/Kally3399",
+        "https://t.me/Camt3648", 
     ];
 
     var currentIndex = 0;
